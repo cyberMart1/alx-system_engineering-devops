@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -m school hello
+chown school:group hello
