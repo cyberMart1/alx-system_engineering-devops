@@ -1,2 +1,2 @@
 #!/bin/bash
-grep  '^[:martins:]' /etc/ssh/sshd_config
+grep  '^[[:martins:]]' /etc/ssh/sshd_config
